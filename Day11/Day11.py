@@ -1,3 +1,4 @@
+# update day 11
 from functools import cache
 
 with open('input.txt', 'r') as f:
